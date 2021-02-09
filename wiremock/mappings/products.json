@@ -1,0 +1,45 @@
+{
+  "priority": 10,
+  "request": {
+    "method": "GET",
+    "urlPattern": "/products"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json",
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Methods": "*",
+      "Access-Control-Allow-Headers": "Accept, Content-Type, Content-Encoding, Server, Transfer-Encoding",
+      "X-Content-Type-Options": "nosniff",
+      "x-frame-options": "DENY",
+      "x-xss-protection": "1; mode=block"
+    },
+    "jsonBody": [
+      {
+        "id": "Dwt5F7KAhi",
+        "name": "Amazing Pizza!",
+        "price": 1099,
+        "img": "https://firebasestorage.googleapis.com/v0/b/voluncode.appspot.com/o/qikserve%2Fpizza.png?alt=media&token=5990deb7-5979-4813-b35d-20f02ef6f5b4"
+      },
+      {
+        "id": "PWWe3w1SDU",
+        "name": "Amazing Burger!",
+        "price": 999,
+        "img": "https://firebasestorage.googleapis.com/v0/b/voluncode.appspot.com/o/qikserve%2FBurger02.png?alt=media&token=54d558e6-d2d0-48bc-b2b4-83febf563156"
+      },
+      {
+        "id": "C8GDyLrHJb",
+        "name": "Amazing Salad!",
+        "price": 499,
+        "img": "https://firebasestorage.googleapis.com/v0/b/voluncode.appspot.com/o/qikserve%2FSalad02.png?alt=media&token=f6053d76-8b53-4185-bdfe-8bbeb26ce2c9"
+      },
+      {
+        "id": "4MB7UfpTQs",
+        "name": "Boring Fries!",
+        "price": 199,
+        "img": "https://firebasestorage.googleapis.com/v0/b/voluncode.appspot.com/o/qikserve%2FFries02.png?alt=media&token=303449ae-3b5e-4e3c-a76c-2503ac20930e"
+      }
+    ]
+  }
+}
