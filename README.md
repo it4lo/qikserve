@@ -1,5 +1,9 @@
 # Qikserve Basket
 
+<p align="center">
+  <img width="100%" height="100%" src="assets/qik-serve.gif"/>
+</p>
+
 # Technologies
       
   - Nodejs 12.16.2
