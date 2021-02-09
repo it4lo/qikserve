@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 
 function reducePromotion(total, item) {
   return total + (item.discount ? item.discount : 0);

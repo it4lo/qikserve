@@ -41,8 +41,8 @@ header {
 }
 
 aside {
-  background-color:#9ccbe6;
-  width:0vw;
+  background-color:#01ddff;
+  width:0vw;  
   font-family:'Hepta Slab', Helvetica, Arial;
   transition:all ease .2s;
   overflow-x:hidden;

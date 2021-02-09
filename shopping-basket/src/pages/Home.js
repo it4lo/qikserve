@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import ItemList from '../components/ItemList';
 import ShoppingCart from '../components/ShoppingCart';
 import ModalAddItem from '../components/ModalAddItem';
-import { mapToAddItem } from '../util/MapTo';
 import api from '../services/api';
 import Calculator from '../util/Calculator';
 import './global.css';

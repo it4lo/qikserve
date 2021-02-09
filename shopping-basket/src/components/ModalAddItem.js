@@ -6,7 +6,7 @@ function ModalAddItem({ moode, cancel, item, addItem }) {
   const [qty, setQty] = useState(1);
 
   const counter = type => {
-    if (type == '+') {
+    if (type === '+') {
       setQty(qty + 1);
     } else if (qty > 1) {
       setQty(qty - 1);
