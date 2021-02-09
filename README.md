@@ -1,7 +1,7 @@
 # Qikserve Basket
 
 <p align="center">
-  <img width="100%" height="100%" src="assets/qik-serve.gif"/>
+  <img width="100%" height="400" src="assets/qik-serve.gif"/>
 </p>
 
 # Technologies
